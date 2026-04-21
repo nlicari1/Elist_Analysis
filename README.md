@@ -6,7 +6,7 @@
 # Company Background
 Sales trends analysis for e-commerce company.
 
-
+The ERD can be found [here](https://github.com/nlicari1/Elist_analysis/blob/main/sql_analysis.sql)
 # Executive Summary
 
 
