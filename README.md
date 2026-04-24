@@ -11,7 +11,7 @@
 
 ## Northstar Metrics
 * Revenue Performance
-  Measures overall growth of sales, orders, and average order value (AOV), including monthly and yearly trends.
+   Measures overall growth of sales, orders, and average order value (AOV), including monthly and yearly trends.
 * Customer Behavior
   * Evaluates how the customers engage with the platform, including loyalty program, and purchase frequency.
 * Product Health
