@@ -27,6 +27,11 @@
   
 The **ERD** for the data can be found [here](https://github.com/nlicari1/Elist_analysis/blob/main/ERD_elist.png)
 # Executive Summary
+Revenue in 2020 peak at $10.1M with the highest average order value being $300, making this Elist's strongest financial year. While 2021 had a higher order count of 35k, the lower AOV shows a higher transaction volume instead of high-value purchases.
+Non-Loyalty members had the most sales at $17.1M, and loyalty members at $10.8M. While being stronger in the earlier years, loyalty members outperformed non-loyalty members in 2021-2022. Showing that while non-loyalty customers drive revenue, loyalty customers improve long-term retention.
+Our most popular product is the '27in 4k Gaming Monitor' having $9.8M in sales, while the 'Macbook Air Laptop' has the highest average order value of $1,588. Even though the gaming monitor drives volume, the Macbook drives value; showing that different products drive differetn growth strategies.
+Although, the Macbook Air Laptop has the highest AOV, it creates the biggest refund risk at 18%. Overall, laptops have the highest refund rate across all years, around 17% for 2 years. In 2021, all products dropped in refund rate but the laptops are still the highest concern.
+Elist products are most popular in the North American region, with total sales of $14.5M with its best year being 2020. North America should remain our main priority across all the regions.
 
 
 # Summary of Insights
