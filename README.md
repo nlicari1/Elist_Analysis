@@ -47,29 +47,29 @@ Overall, while Elist maintains strong revenue drivers across products and region
   
   ### Revenue Peaked in 2020 While Order Volume Shifted in 2021
   <picture>
-    <img src="Insights/year_growth_charts.PNG" alt="Alt Text">
+    <img src="Insights/year_growth_charts.PNG" max-width:100% height="220" alt="Alt Text">
   </picture>
   
   ### 2020 Was Elist's Strongest Sales Year Across All Monthly Trends
   <picture>
-    <img src="Insights/monthly_sales_trend.PNG" alt="Alt Text">
+    <img src="Insights/monthly_sales_trend.PNG" max-width:100% height="500" alt="Alt Text">
   </picture>
 
 ## Customer Behavior
   ### Non-Loyalty Customers Drive Revenue While Loyalty Supports Retention
   <picture>
-    <img src="Insights/loyalty_contributions.PNG" alt="Alt Text">
+    <img src="Insights/loyalty_contributions.PNG" max-width:100% height="400" alt="Alt Text">
   </picture>
 
 ## Product Health
   ### Gaming Monitors Lead Sales Volume While Laptops Drive Higher-Value Purchases  
   <picture>
-    <img src="Insights/yearly_sales_trend.PNG" alt="Alt Text">
+    <img src="Insights/yearly_sales_trend.PNG" height="480 alt="Alt Text">
   </picture>
   
   ### Macbook Air and ThinkPad Generate the Highest Average Order Value
   <picture>
-    <img src="Insights/aov_across_products.PNG" alt="Alt Text">
+    <img src="Insights/aov_across_products.PNG" height="500" alt="Alt Text">
   </picture>
   
   ### Refund by Product
