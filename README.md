@@ -69,17 +69,18 @@ Overall, while Elist maintains strong revenue drivers across products and region
   
   ### Macbook Air and ThinkPad Generate the Highest Average Order Value
   <picture>
-    <img src="Insights/aov_across_products.PNG" max-width:100% height="550" alt="Alt Text">
+    <img src="Insights/aov_across_products.png" max-width:100% height="550" alt="Alt Text">
   </picture>
   
-  ### Refund by Product
-  <picture>
-    <img src="Insights/refund_by_products.PNG" max-width:100% height="375" alt="Alt Text">
-  </picture>
   
   ### MacBook Air Maintains the Highest Refund Risk Among Apple Products
   <picture>
     <img src="Insights/apple_products_refund.PNG" max-width:100% height="380" alt="Alt Text">
+  </picture>
+  
+  ### Refund by Product
+  <picture>
+    <img src="Insights/refund_by_products.PNG" max-width:100% height="200" alt="Alt Text">
   </picture>
   
 ## Operational Efficiency 
@@ -89,5 +90,4 @@ Overall, while Elist maintains strong revenue drivers across products and region
   </picture>
 
 # Recommendations
-
 
