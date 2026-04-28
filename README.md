@@ -50,7 +50,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
     <img src="Insights/year_growth_charts.PNG" max-width:100% height="220" alt="Alt Text">
   </picture>
 
-  Reveune increased significantly from 2019 to 2020, growing from $3.8M with an AOV of $230 to $10.1M with an AOV of $300. While 2020 was Elist's strongest year for both total sales and average order value, 2021 recorded the higher order count of over 35k orders. Displaying a shift from customer spending to transaction volume. However, all three metrics declined in 2022, suggesting weaker purchasing activity compared to other years.
+  Reveune increased significantly from 2019 to 2020, growing from $3.8M with an AOV of **$230** to **$10.1M** with an AOV of **$300**. While 2020 was Elist's strongest year for both total sales and average order value, 2021 recorded the higher order count of over **35k** orders. Displaying a shift from customer spending to transaction volume. However, all three metrics declined in 2022, suggesting weaker purchasing activity compared to other years.
   
   
   ### 2020 Was Elist's Strongest Sales Year Across All Monthly Trends
@@ -58,7 +58,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
     <img src="Insights/monthly_sales_trend.PNG" max-width:100% height="500" alt="Alt Text">
   </picture>
   
-  2020 was Elist's highest performing financial year, with monthly sales peaking at $1.2M in December. Revenue declined significantly at the start of 2021, dropping to approximately $700k by Feburary before recovering later in the year. Sales patterns also show constitent seasonal strength during the holiday period, with most years peaking towards year-end, except 2022. The decline across sales performance in 2022 suggest weaker customer demand and highlights the need to better understand changes in purchasing behavior and retention.
+  2020 was Elist's highest performing financial year, with monthly sales peaking at **$1.2M** in December. Revenue declined significantly at the start of 2021, dropping to approximately **$700k** by Feburary before recovering later in the year. Sales patterns also show constitent seasonal strength during the holiday period, with most years peaking towards year-end, except 2022. The decline across sales performance in 2022 suggest weaker customer demand and highlights the need to better understand changes in purchasing behavior and retention.
 
 
 ## Customer Behavior
@@ -81,7 +81,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
     <img src="Insights/aov_across_products.png" max-width:100% height="350" alt="Alt Text">
   </picture>
   
-  The 27in 4k Gaming Monitor achieved the highest total sales, peaking at $366k in 2020 and producing a total of $9.8M across all years. In contrast, the MacBook Air Laptop and ThinkPad Laptop produced a highest overall AOV across all years of $1,588 and $1,100, respectively. This indicates that Elist relies on both volume-driven products and high-value products, requiring different pricing, inventory, and marketing strategies across product categories.
+  The 27in 4k Gaming Monitor achieved the highest total sales, peaking at **$366k** in 2020 and producing a total of **$9.8M** across all years. In contrast, the MacBook Air Laptop and ThinkPad Laptop produced a highest overall AOV across all years of **$1,588**and **$1,100**, respectively. This indicates that Elist relies on both volume-driven products and high-value products, requiring different pricing, inventory, and marketing strategies across product categories.
   
   
   ### MacBook Air Maintains the Highest Refund Risk Among Apple Products
@@ -94,7 +94,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
     <img src="Insights/refund_by_products.PNG" max-width:100% height="200" alt="Alt Text">
   </picture>
   
-  Although the MacBook Air Laptop delivers the highest AOV, it also carries the highest refund rate among Apple products at 18%. Across all products, laptops consistently generate the highest refund rates, with the ThinkPad Laptop having 17% between 2019 and 2020. While refund performance improved across all products in 2021, laptops continued to have the highest refund concern. In addition, 2022 refund rates showed 0% across all products. This suggests a problem with the data that require further investigation.
+  Although the MacBook Air Laptop delivers the highest AOV, it also carries the highest refund rate among Apple products at **18%**. Across all products, laptops consistently generate the highest refund rates, with the ThinkPad Laptop having **17%** between 2019 and 2020. While refund performance improved across all products in 2021, laptops continued to have the highest refund concern. In addition, 2022 refund rates showed **_0%_**across all products. This suggests a problem with the data that require further investigation.
   
   
 ## Operational Efficiency 
@@ -103,7 +103,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
     <img src="Insights/total_sales_region.PNG" max-width:100% height="380" alt="Alt Text">
   </picture>
 
-  North America shows to be Elist's strongest market, generating $14.5M in total sales and peaking at $5.3M in 2020. In comparison, EMEA produced $8.2M, making North America the company's primary revenue-driving region. This confirms that continued investment into North America should remain a strategis priority while identifying opportunties for expansion in other regions.
+  North America shows to be Elist's strongest market, generating **$14.5M** in total sales and peaking at **$5.3M** in 2020. In comparison, EMEA produced **$8.2M**, making North America the company's primary revenue-driving region. This confirms that continued investment into North America should remain a strategis priority while identifying opportunties for expansion in other regions.
 
 # Recommendations
   * The company should review the drivers behind 2020's peak performance and compare them against the 2022 decline to identify opportunities for revenue recovery and stronger year-round customer retention.
