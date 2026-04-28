@@ -28,7 +28,7 @@
 The **ERD** for the data can be found [here](https://github.com/nlicari1/Elist_analysis/blob/main/ERD_elist.png)
 
 # Executive Summary
-Revenue in 2020 peak at **$10.1M**, with the highest average order value being **$300**, making this Elist's strongest financial year. While 2021 recorded a higher order count of over **36k** orders, the lower AOV suggests a shift from high-value purchases to higher transaction volume rather than stronger customer spending.
+Revenue in 2020 peak at **$10.1M**, with the highest average order value being **$300**, making this Elist's strongest financial year. While 2021 recorded a higher order count of over **35k** orders, the lower AOV suggests a shift from high-value purchases to higher transaction volume rather than stronger customer spending.
 
 Non-Loyalty members generated highest total sales at **$17.1M** compared to **$10.8M** for loyalty members, making them the primary driver for revenue. However, loyalty members outperformed non-loyalty members in 2021 and 2022, suggesting that while customer gain drives short-term sales, the loyalty program supports long-term retention.
 
@@ -50,8 +50,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
     <img src="Insights/year_growth_charts.PNG" max-width:100% height="220" alt="Alt Text">
   </picture>
 
-  Reveune significantly increased from 2019-2020, at $3.8M with and AOV of $230 to 10.1M with and AOV of $300. While 2020 was our peak year with sales and average order value, 2021 recorded a higher order count of 36k orders. Displaying a shift from customer spending to transaction volume.
-    However, all three metrics decline in 2022, suggesting weaker purchasing activity compared to other years.
+  Reveune increased significantly from 2019 to 2020, growing from $3.8M with an AOV of $230 to $10.1M with an AOV of $300. While 2020 was Elist's strongest year for both total sales and average order value, 2021 recorded the higher order count of over 35k orders. Displaying a shift from customer spending to transaction volume. However, all three metrics declined in 2022, suggesting weaker purchasing activity compared to other years.
   
   
   ### 2020 Was Elist's Strongest Sales Year Across All Monthly Trends
