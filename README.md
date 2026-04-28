@@ -1,9 +1,11 @@
-# Table of Contents
+<h1 align= "center" > Table of Contents</h1> 
+
 - [Company Background](#Company-Background)
 - [Executive Summary](#Executive-Summary)
 - [Summary of Insights](#Summary-of-Insights)
-- [Recommendations](#Recommendations)   
-# Company Background
+- [Recommendations](#Recommendations)
+<h1 align= "center"> Company Background </h1>
+
   Elist is an e-commerce company founded in 2018, that sells popular electronics products such as Apple, Samsung, and ThinkPad. Through their online website and mobile app, Elist has expanded to selling their products globally. 
   Analyzing for the Head of Operations, the goal of this analysis is to evaluate Elist's sales performance, customer behavior and operational efficiency over the last several years (2019-2022). This analysis intends to provide insights that will be delievered across teams including finance, sales, products, and marketing. To improve their day-to-day prcoesses and help the company deliver top-notch products to customers around the world.
   
@@ -11,23 +13,21 @@
 
 ## Northstar Metrics
 * **Revenue Performance**
-
-  Measures overall growth of sales, orders, and average order value (AOV), including monthly and yearly trends.
+  * Measures overall growth of sales, orders, and average order value (AOV), including monthly and yearly trends.
 * **Customer Behavior**
-
+  
     Evaluates how the customers engage with the platform, including loyalty program, and purchase frequency.
 * **Product Health**
-
-    Gauges product success and quality throught sales contribution and refund rates by product and category.
   
+    Gauges product success and quality throught sales contribution and refund rates by product and category.
 * **Operational Efficiency**
-
+  
     Analyzes fulfillment performance across regions, focusing on delivery time and logistical consistency.
 
-  
 The **ERD** for the data can be found [here](https://github.com/nlicari1/Elist_analysis/blob/main/ERD_elist.png)
 
-# Executive Summary
+<h1 align= "center" > Executive Summary</h1>
+
 Revenue in 2020 peak at **$10.1M**, with the highest average order value being **$300**, making this Elist's strongest financial year. While 2021 recorded a higher order count of over **35k** orders, the lower AOV suggests a shift from high-value purchases to higher transaction volume rather than stronger customer spending.
 
 Non-Loyalty members generated highest total sales at **$17.1M** compared to **$10.8M** for loyalty members, making them the primary driver for revenue. However, loyalty members outperformed non-loyalty members in 2021 and 2022, suggesting that while customer gain drives short-term sales, the loyalty program supports long-term retention.
@@ -41,7 +41,7 @@ North America produced the highest total sales of **$14.5M**, with its strongest
 Overall, while Elist maintains strong revenue drivers across products and regions, improving customer retention and product return performance presents the greatest opportunity for long-term profits. The [recommendations](#Recommendations) below give a more in-depth outline for improvement.
 
 
-# Summary of Insights
+<h1 align= "center" >Summary of Insights</h1>
 
 ## Revenue Performance
   
@@ -105,7 +105,8 @@ Overall, while Elist maintains strong revenue drivers across products and region
 
   North America shows to be Elist's strongest market, generating **$14.5M** in total sales and peaking at **$5.3M** in 2020. In comparison, EMEA produced **$8.2M**, making North America the company's primary revenue-driving region. This confirms that continued investment into North America should remain a strategis priority while identifying opportunties for expansion in other regions.
 
-# Recommendations
+<h1 align= "center" >Recommendations</h1>
+
 ## Revenue Performance
   * The company should review the drivers behind 2020's peak performance and compare them against the 2022 decline to identify opportunities for revenue recovery and stronger year-round customer retention.
   * Elist should strength loyalty conversion strategies by encouraging first-time customers to join the program through incentives, earlier in their purhcasing history.
