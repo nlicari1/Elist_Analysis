@@ -72,7 +72,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
 ## Product Health
   ### Gaming Monitors Lead Sales Volume While Laptops Drive Higher-Value Purchases  
   <picture>
-    <img src="Insights/yearly_sales_trend.PNG" max-width:100% height="480 alt="Alt Text">
+    <img src="Insights/Yearly Product Sales Trend.png" max-width:100% height="480 alt="Alt Text">
   </picture>
   
   #### Macbook Air and ThinkPad Generate the Highest Average Order Value
