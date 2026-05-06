@@ -63,7 +63,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
 ## Customer Behavior
   ### Non-Loyalty Customers Drive Revenue While Loyalty Supports Retention
   <picture>
-    <img src="Insights/loyalty_contributions.PNG" max-width:100% height="400" alt="Alt Text">
+    <img src="Insights/Loyalty Contribution.png" alt="Alt Text">
   </picture>
 
   In 2019 and 2020 loyalty members seem to have underperformed generating less sales than non-loyalty members. However in recent years, the loyalty program seems to have increased purchases having more purchases than their counter part. This suggests that the loyalty program supports stronger long-term retention.
