@@ -84,7 +84,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
   
   ### MacBook Air Maintains the Highest Refund Risk Among Apple Products
   <picture>
-    <img src="Insights/Apple Products Refund Rate.png" alt="Alt Text">
+    <img src="Insights/Apple Products Refund Rate.png" max-width:100% height="550" alt="Alt Text">
   </picture>
   
  While the **_MacBook Air Laptop_** delivers the highest AOV, it has the highest refund rate across all Apple products at **18%**. Laptops show to produce the highest refund rates across all products, with the **_ThinkPad Laptop_** having **17%** between 2019-2020. In 2021, all products improved their refund rate while the laptops continued to have the highest refund rates. An issue was found for 2022, showing all products generating a refund rate of **_0%_**. This suggests a problem with the data and would need further investigating.
