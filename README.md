@@ -93,7 +93,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
 ## Operational Efficiency 
   ### North America Remains Elist's Primary Revenue-Driving Market
   <picture>
-    <img src="Insights/Total Sales by Region.png" max-width:100% height="600" alt="Alt Text">
+    <img src="Insights/Total Sales by Region.png" max-width:100% height="550" alt="Alt Text">
   </picture>
 
   North America shows to be Elist's strongest market, generating $14.5M in total sales, peaking in 2020 at $5.3M. While EMEA produced $8.2M, Elist's main investment strategy should be in North America.
