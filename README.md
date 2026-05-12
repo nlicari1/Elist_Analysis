@@ -47,7 +47,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
   
   ### Revenue Peaked in 2020 While Order Volume Shifted in 2021
   <picture>
-    <img src="Insights/year_growth_charts.PNG" max-width:100% height="220" alt="Alt Text">
+    <img src="Insights/YoY growth chart.png" max-width:100% height="220" alt="Alt Text">
   </picture>
 
   Reveune significantly increased from 2019-2020, at **$3.8M** with and AOV of **$230** to **$10.1M** with and AOV of **$300**. While 2020 was our peak year with sales and average order value, 2021 recorded a higher order count of **36k** orders. Displaying a shift from customer spending to transaction volume. However, all three metrics decline in 2022, suggesting weaker purchasing activity compared to other years.
