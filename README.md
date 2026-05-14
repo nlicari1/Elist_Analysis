@@ -78,7 +78,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
   #### Macbook Air and ThinkPad Generate the Highest Average Order Value
   <picture>
     <img src="Insights/AOV Apple Products.png" max-width:100% height="500" alt="Alt Text"> 
-    <img src="Insights/AOV Across Products.png" max-width:100% height="250" alt="Alt Text">
+    <!-- <img src="Insights/AOV Across Products.png" max-width:100% height="250" alt="Alt Text"> -->
   </picture>
   
   The **_27in 4k Gaming Monitor_** had the highest revenue peak in 2020 at **$366k**, generating a total of **$9.8M** across all years. While products like the **_MacBook Air Laptop_** and **_ThinkPad Laptop_** produced a total average order value of **$1,588** and **$1,100**. Indicating that both volume-driven and high-value products are relied on for the company.
