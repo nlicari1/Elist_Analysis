@@ -57,7 +57,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
     <img src="Insights/Monthly Sales Trend.png" max-width:100% height="500" alt="Alt Text">
   </picture>
   
-  2020 was the highest performing year peaking at **$1.2M** in December. Then dropping significantly to **$700k** in 2021 until picking up again in September. The middle of the year seems to be stablizing until the end of the year holidays, where except for 2022, all other years have peaked during this season.
+  2020 was the highest performing year peaking at **$1.2M** in December. Then dropping significantly to **$700k** in 2021 until picking up again in September. The middle of the year seems to be stabilizing until the end of the year holidays, where except for 2022, all other years have peaked during this season.
 
 
 ## Customer Behavior
@@ -66,7 +66,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
     <img src="Insights/Loyalty Contribution.png" alt="Alt Text">
   </picture>
 
-  In 2019 and 2020 loyalty members seem to have underperformed generating less sales than non-loyalty members. However, in recent years, the loyalty program seems to have increased purchases having more purchases than their counterpart. This suggests that the loyalty program supports stronger long-term retention.
+  In 2019 and 2020, loyalty members seem to have underperformed generating less sales than non-loyalty members. However, in recent years, the loyalty program seems to have increased purchases having more purchases than their counterpart. This suggests that the loyalty program supports stronger long-term retention.
   
 
 ## Product Health
