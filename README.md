@@ -7,9 +7,9 @@
 <h1 align= "center"> Company Background </h1>
 
   Elist is an e-commerce company founded in 2018, that sells popular electronics products such as Apple, Samsung, and ThinkPad. Through their online website and mobile app, Elist has expanded to selling their products globally. 
-  Analyzing for the Head of Operations, the goal of this analysis is to evaluate Elist's sales performance, customer behavior and operational efficiency over the last several years (2019-2022). This analysis intends to provide insights that will be delievered across teams including finance, sales, products, and marketing. To improve their day-to-day processes and help the company deliver top-notch products to customers around the world.
+  Analyzing for the Head of Operations, the goal of this analysis is to evaluate Elist's sales performance, customer behavior and operational efficiency over the last several years (2019-2022). This analysis intends to provide insights that will be delivered across teams including finance, sales, products, and marketing. To improve their day-to-day processes and help the company deliver high-quality products to customers around the world.
   
-  The key insights and recommedations will focus on the following:
+  The key insights and recommendations will focus on the following:
 
 ## Northstar Metrics
 **Revenue Performance**
@@ -19,7 +19,7 @@
   * Evaluates how the customers engage with the platform, including loyalty program, and purchase frequency.
     
 **Product Health**
-  * Gauges product success and quality throught sales contribution and refund rates by product and category.
+  * Gauges product success and quality through sales contribution and refund rates by product and category.
 
 **Operational Efficiency**
   * Analyzes fulfillment performance across regions, focusing on delivery time and logistical consistency.
@@ -28,7 +28,7 @@ The **Entity Relationship Diagram (ERD)** for the data can be found [here](https
 
 <h1 align= "center" > Executive Summary</h1>
 
-Revenue in 2020 peak at **$10.1M**, with the highest average order value (AOV) being **$300**, making this Elist's strongest financial year. While 2021 recorded a higher order count of over **35k** orders, the lower AOV suggests a shift from high-value purchases to higher transaction volume rather than stronger customer spending.
+Revenue in 2020 peaked at **$10.1M**, with the highest average order value (AOV) being **$300**, making this Elist's strongest financial year. While 2021 recorded a higher order count of over **35k** orders, the lower AOV suggests a shift from high-value purchases to higher transaction volume rather than stronger customer spending.
 
 Non-Loyalty members generated the highest total sales at **$17.1M** compared to **$10.8M** for loyalty members, making them the primary driver for revenue. However, loyalty members outperformed non-loyalty members in 2021 and 2022, suggesting that while customer gain drives short-term sales, the loyalty program supports long-term retention.
 
@@ -50,14 +50,14 @@ Overall, while Elist maintains strong revenue drivers across products and region
     <img src="Insights/YoY growth chart.png" max-width:100% height="220" alt="Alt Text">
   </picture>
 
-  Reveune significantly increased from 2019-2020, at **$3.8M** with and AOV of **$230** to **$10.1M** with and AOV of **$300**. While 2020 was our peak year with sales and average order value, 2021 recorded a higher order count of **36k** orders. Displaying a shift from customer spending to transaction volume. However, all three metrics decline in 2022, suggesting weaker purchasing activity compared to other years.
+  Revenue significantly increased from 2019-2020, at **$3.8M** with an AOV of **$230** to **$10.1M** with an AOV of **$300**. While 2020 was our peak year with sales and average order value, 2021 recorded a higher order count of **36k** orders. This displays a shift from higher customer spending to increased transaction volume. However, all three metrics decline in 2022, suggesting weaker purchasing activity compared to other years.
   
   ### 2020 Was Elist's Strongest Sales Year Across All Monthly Trends
   <picture>
     <img src="Insights/Monthly Sales Trend.png" max-width:100% height="500" alt="Alt Text">
   </picture>
   
-  The 2020 was the highest performing year peaking at **$1.2M** in December. Then dropping significantly to **$700k** in 2021 until Feburary until picking up in Septemeber. The middle of the year seems to be stablizing until the end of the year holidays, where except for 2022, all other years have peaked during this season.
+  The 2020 was the highest performing year peaking at **$1.2M** in December. Then dropping significantly to **$700k** in 2021 until February until picking up in September. The middle of the year seems to be stablizing until the end of the year holidays, where except for 2022, all other years have peaked during this season.
 
 
 ## Customer Behavior
@@ -72,7 +72,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
 ## Product Health
   ### Gaming Monitors Lead Sales Volume While Laptops Drive Higher-Value Purchases  
   <picture>
-    <img src="Insights/Yearly Product Sales Trend.png" max-width:100% height="480 alt="Alt Text">
+    <img src="Insights/Yearly Product Sales Trend.png" max-width:100% height="480" alt="Alt Text">
   </picture>
   
   #### Macbook Air and ThinkPad Generate the Highest Average Order Value
@@ -103,9 +103,9 @@ Overall, while Elist maintains strong revenue drivers across products and region
 
 ## Revenue Performance
   * The company should review the drivers behind 2020's peak performance and compare them against the 2022 decline to identify opportunities for revenue recovery and stronger year-round customer retention.
-  * Elist should strength loyalty conversion strategies by encouraging first-time customers to join the program through incentives, earlier in their purhcasing history.
-## Customer Behavior
   * Elist should continue supporting high-volume products like gaming monitors while optimizing premium product strategies for laptops through targeted marketing and pricing decisions.
+## Customer Behavior
+  * Elist should strength loyalty conversion strategies by encouraging first-time customers to join the program through incentives, earlier in their purchasing history.
 ## Product Health
   * Leadership should prioritize reviewing laptop return behavior and validating 2022 refund reportings to identify potential issues.
 ## Operational Efficiency 
