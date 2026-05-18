@@ -57,7 +57,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
     <img src="Insights/Monthly Sales Trend.png" max-width:100% height="500" alt="Alt Text">
   </picture>
   
-  The 2020 was the highest performing year peaking at **$1.2M** in December. Then dropping significantly to **$700k** in 2021 until February until picking up in September. The middle of the year seems to be stablizing until the end of the year holidays, where except for 2022, all other years have peaked during this season.
+  2020 was the highest performing year peaking at **$1.2M** in December. Then dropping significantly to **$700k** in 2021 until picking up again in September. The middle of the year seems to be stablizing until the end of the year holidays, where except for 2022, all other years have peaked during this season.
 
 
 ## Customer Behavior
@@ -66,7 +66,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
     <img src="Insights/Loyalty Contribution.png" alt="Alt Text">
   </picture>
 
-  In 2019 and 2020 loyalty members seem to have underperformed generating less sales than non-loyalty members. However in recent years, the loyalty program seems to have increased purchases having more purchases than their counter part. This suggests that the loyalty program supports stronger long-term retention.
+  In 2019 and 2020 loyalty members seem to have underperformed generating less sales than non-loyalty members. However, in recent years, the loyalty program seems to have increased purchases having more purchases than their counterpart. This suggests that the loyalty program supports stronger long-term retention.
   
 
 ## Product Health
@@ -81,14 +81,14 @@ Overall, while Elist maintains strong revenue drivers across products and region
     <!-- <img src="Insights/AOV Across Products.png" max-width:100% height="250" alt="Alt Text"> -->
   </picture>
   
-  The **_27in 4k Gaming Monitor_** had the highest revenue peak in 2020 at **$366k**, generating a total of **$9.8M** across all years. While products like the **_MacBook Air Laptop_** and **_ThinkPad Laptop_** produced a total average order value of **$1,588** and **$1,100**. Indicating that both volume-driven and high-value products are relied on for the company.
+  The **_27in 4k Gaming Monitor_** had the highest revenue peak in 2020 at **$366k**, generating a total of **$9.8M** across all years. While products like the **_MacBook Air Laptop_** and **_ThinkPad Laptop_** produced a total average order value of **$1,588** and **$1,100**, respectively, this indicates that both volume-driven and high-value products are relied on for the company.
   
   ### MacBook Air Maintains the Highest Refund Risk Among Apple Products
   <picture>
     <img src="Insights/Apple Products Refund Rate.png" max-width:100% height="550" alt="Alt Text">
   </picture>
   
- While the **_MacBook Air Laptop_** delivers the highest AOV, it has the highest refund rate across all Apple products at **18%**. Laptops show to produce the highest refund rates across all products, with the **_ThinkPad Laptop_** having **17%** between 2019-2020. In 2021, all products improved their refund rate while the laptops continued to have the highest refund rates. An issue was found for 2022, showing all products generating a refund rate of **_0%_**. This suggests a problem with the data and would need further investigating.
+ While the **_MacBook Air Laptop_** delivers the highest AOV, it has the highest refund rate across all Apple products at **18%**. Laptops tend to produce the highest refund rates across all products, with the **_ThinkPad Laptop_** having **17%** between 2019-2020. In 2021, all products improved their refund rate while the laptops continued to have the highest refund rates. An issue was found for 2022, showing all products generating a refund rate of **_0%_**. This suggests a problem with the data and would need further investigating.
   
   
 ## Operational Efficiency 
@@ -104,9 +104,9 @@ Overall, while Elist maintains strong revenue drivers across products and region
 ## Revenue Performance
   * The company should review the drivers behind 2020's peak performance and compare them against the 2022 decline to identify opportunities for revenue recovery and stronger year-round customer retention.
 ## Customer Behavior
-  * Elist should strength loyalty conversion strategies by encouraging first-time customers to join the program through incentives, earlier in their purchasing history.
+  * Elist should strengthen loyalty conversion strategies by encouraging first-time customers to join the program through incentives, earlier in their purchasing history.
 ## Product Health
   * Elist should continue supporting high-volume products like gaming monitors while optimizing premium product strategies for laptops through targeted marketing and pricing decisions.
-  * Leadership should prioritize reviewing laptop return behavior and validating 2022 refund reportings to identify potential issues.
+  * Leadership should prioritize reviewing laptop return behavior and validating 2022 refund reporting to identify potential issues.
 ## Operational Efficiency 
-  * Elist should maintain strong investment in North America while testing targeted growth strategies in other regions to reduce long-term single market dependancy.
+  * Elist should maintain strong investment in North America while testing targeted growth strategies in other regions to reduce long-term single market dependency.
