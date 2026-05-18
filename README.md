@@ -103,10 +103,10 @@ Overall, while Elist maintains strong revenue drivers across products and region
 
 ## Revenue Performance
   * The company should review the drivers behind 2020's peak performance and compare them against the 2022 decline to identify opportunities for revenue recovery and stronger year-round customer retention.
-  * Elist should continue supporting high-volume products like gaming monitors while optimizing premium product strategies for laptops through targeted marketing and pricing decisions.
 ## Customer Behavior
   * Elist should strength loyalty conversion strategies by encouraging first-time customers to join the program through incentives, earlier in their purchasing history.
 ## Product Health
+  * Elist should continue supporting high-volume products like gaming monitors while optimizing premium product strategies for laptops through targeted marketing and pricing decisions.
   * Leadership should prioritize reviewing laptop return behavior and validating 2022 refund reportings to identify potential issues.
 ## Operational Efficiency 
   * Elist should maintain strong investment in North America while testing targeted growth strategies in other regions to reduce long-term single market dependancy.
