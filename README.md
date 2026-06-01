@@ -59,6 +59,8 @@ Overall, while Elist maintains strong revenue drivers across products and region
   </picture>
   
   2020 was the highest performing year peaking at **$1.2M** in December. Then dropping significantly to **$700k** in 2021 until picking up again in September. The middle of the year seems to be stabilizing until the end of the year holidays, where except for 2022, all other years have peaked during this season.
+  The spike was led by the MacBook Air and 27in Gaming Monitor, which together accounted for the majority of the revenue jump from 2019. This suggest the reasoning to be because of the Covid-19 period, where demand for home office and entertainment electronics surged industry-wide, though further research would be needed to confirm the cause.
+  
 
 
 ## Customer Behavior
