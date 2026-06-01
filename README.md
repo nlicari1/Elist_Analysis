@@ -69,7 +69,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
     <img src="Insights/Loyalty Contribution.png" alt="Alt Text">
   </picture>
 
-  In 2019 and 2020, loyalty members seem to have underperformed generating less sales than non-loyalty members. However, in recent years, the loyalty program seems to have increased purchases having more purchases than their counterpart. This suggests that the loyalty program supports stronger long-term retention.
+  In 2019 and 2020, loyalty members seem to have underperformed generating less sales than non-loyalty members. However, in recent years, the loyalty program seems to have increased purchases having more purchases than their counterpart. This suggests that the loyalty program supports stronger long-term retention. While non-loyalty members drove higher total revenue historically, loyalty members overtook them in both 2021 and 2022. Non-loyalty AOV peaked at $345 in 2020 but dropped to $214 by 2022, while loyalty member AOV remained stable around $244 suggesting loyalty members are more consistent spenders even as overall demand declined. The program also saw rapid growth, with membership more than tripling between 2019 and 2021, meaning its long-term impact on revenue is still growing.
   
 
 ## Product Health
