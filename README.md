@@ -59,7 +59,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
   </picture>
   
   2020 was the highest performing year peaking at **$1.2M** in December. Then dropping significantly to **$700k** in 2021 until picking up again in September. The middle of the year seems to be stabilizing until the end of the year holidays, where except for 2022, all other years have peaked during this season.
-  The spike was led by the MacBook Air and 27in Gaming Monitor, which together accounted for the majority of the revenue jump from 2019. This suggest the reasoning to be because of the Covid-19 period, where demand for home office and entertainment electronics surged industry-wide, though further research would be needed to confirm the cause.
+  The spike was led by the MacBook Air and 27in Gaming Monitor, which together accounted for the majority of the revenue jump from 2019. This suggest the reasoning to be because of the **Covid-19** period, where demand for home office and entertainment electronics surged industry-wide, though further research would be needed to confirm the cause.
   
 
 
@@ -70,7 +70,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
   </picture>
 
   In 2019 and 2020, loyalty members seem to have underperformed generating less sales than non-loyalty members. However, in recent years, the loyalty program seems to have increased purchases having more purchases than their counterpart. This suggests that the loyalty program supports stronger long-term retention. 
-  While non-loyalty members drove higher total revenue historically, loyalty members overtook them in both 2021 and 2022. Non-loyalty AOV peaked at $345 in 2020 but dropped to $214 by 2022, while loyalty member AOV remained stable around $244 suggesting loyalty members are more consistent spenders even as overall demand declined. The program also saw rapid growth, with membership more than tripling between 2019 and 2021, meaning its long-term impact on revenue is still growing.
+  While non-loyalty members drove higher total revenue historically, loyalty members overtook them in both 2021 and 2022. Non-loyalty AOV peaked at **$345** in 2020 but dropped to **$214** by 2022, while loyalty member AOV remained stable around **$244** suggesting loyalty members are more consistent spenders even as overall demand declined. The program also saw rapid growth, with membership more than tripling between 2019 and 2021, meaning its long-term impact on revenue is still growing.
   
 
 ## Product Health
@@ -86,7 +86,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
   </picture>
   
   The **_27in 4k Gaming Monitor_** had the highest revenue peak in 2020 at **$366k**, generating a total of **$9.8M** across all years. While products like the **_MacBook Air Laptop_** and **_ThinkPad Laptop_** produced a total average order value of **$1,588** and **$1,100**, respectively, this indicates that both volume-driven and high-value products are relied on for the company.
-  Elist's product mix relies on two distinct revenue models high-volume, lower-priced products like the AirPods and Gaming Monitor, and the low-volume, high-ticket items like the MacBook Air and ThinkPad. The MacBook Air drove a significant portion of the 2020 revenue spike at $2.9M but declined sharply in subsequent years, while the Gaming Montior proved more resilient, holding steady into 2021. This suggests Elist's revenue is particularly sensitive to demand shift in high-AOV products.
+  Elist's product mix relies on two distinct revenue models high-volume, lower-priced products like the AirPods and Gaming Monitor, and the low-volume, high-ticket items like the MacBook Air and ThinkPad. The MacBook Air drove a significant portion of the 2020 revenue spike at **$2.9M** but declined sharply in subsequent years, while the Gaming Montior proved more resilient, holding steady into 2021. This suggests Elist's revenue is particularly sensitive to demand shift in high-AOV products.
   
   ### MacBook Air Maintains the Highest Refund Risk Among Apple Products
   <picture>
