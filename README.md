@@ -102,9 +102,12 @@ Overall, while Elist maintains strong revenue drivers across products and region
   ### North America Remains Elist's Primary Revenue-Driving Market
   <picture>
     <img src="Insights/Total Sales by Region.png" max-width:100% height="550" alt="Alt Text">
+    <img src="Insights/Regional_AOV.png" max-width:100% height="550" alt="Alt Text">
   </picture>
 
   North America shows to be Elist's strongest market, generating **$14.5M** in total sales, peaking in 2020 at **$5.3M**. While EMEA produced **$8.2M**, Elist's main investment strategy should be in North America.
+  The revenue decline from 2021 to 2022 was consistent across all regions, suggesting a company wide demand shift rather than a region specific issue. EMEA stands out as the strongest secondary market, making it the most developed growth opportunity outside North America. LATAM showed the biggest decline in AOV, dropping from $295 in 2020 to $168 in 2022, which may indicate growing price sensitivity in that market.
+  
   
 <h1 align= "center" >Recommendations</h1>
 
