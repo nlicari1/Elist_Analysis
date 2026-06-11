@@ -113,10 +113,11 @@ Overall, while Elist maintains strong revenue drivers across products and region
 
 ## Revenue Performance
   * The company should review the drivers behind 2020's peak performance and compare them against the 2022 decline to identify opportunities for revenue recovery and stronger year-round customer retention.
+  * Given the consistent Q4 revenue peaks across 2019-2022, Elist should invest in holiday promotions earlier in the season to reproduce the seasonal demand that weakend significantly in 2022.
 ## Customer Behavior
-  * Elist should strengthen loyalty conversion strategies by encouraging first-time customers to join the program through incentives, earlier in their purchasing history.
+  * Elist should strengthen loyalty conversion strategies by encouraging first-time customers to join the program through incentives earlier in their purchasing history, given that the loyalty members have shown more stable AOV and stronger retention as the program develops.
 ## Product Health
   * Elist should continue supporting high-volume products like gaming monitors while optimizing premium product strategies for laptops through targeted marketing and pricing decisions.
-  * Leadership should prioritize reviewing laptop return behavior and validating 2022 refund reporting to identify potential issues.
+  * Leadership should investigate why MacBook Air refunds average 755 days, as this likely points to unmet long-term customer expectations rather than an immediate product issue. Additionally, the 0% refund rate across all products in 2022 should be validated before drawing any conclusions, since there seems to be a data anomaly.
 ## Operational Efficiency 
-  * Elist should maintain strong investment in North America while testing targeted growth strategies in other regions to reduce long-term single market dependency.
+  * Elist should maintain North America as the priority investment focus while testing targeted growth strategies in EMEA as the strongest secondary market. LATAM should be monitored closely given its steep AOV decline from $295 to $168, which may indicate growing price sensitivity.
