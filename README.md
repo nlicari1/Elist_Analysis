@@ -50,7 +50,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
     <img src="Insights/YoY growth chart.png" max-width:100% height="220" alt="Alt Text">
   </picture>
 
-  Revenue significantly increased from 2019-2020, at **$3.8M** with an AOV of **$230** to **$10.1M** with an AOV of **$300**. While 2020 was our peak year with sales and average order value, 2021 recorded a higher order count of **36k** orders. This displays a shift from higher customer spending to increased transaction volume. However, all three metrics decline in 2022, suggesting weaker purchasing activity compared to other years.
+  Revenue significantly increased from 2019-2020, at **$3.8M** with an AOV of **$230** to **$10.1M** with an AOV of **$300**. While 2020 was our peak year with sales and average order value, 2021 recorded a higher order count of **36k** orders. This displays a shift from higher customer spending to increased transaction volume. However, all three metrics declined in 2022, suggesting weaker purchasing activity compared to other years.
   
   ### 2020 Was Elist's Strongest Sales Year Across All Monthly Trends
   <picture>
@@ -59,7 +59,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
   </picture>
   
   2020 was the highest performing year peaking at **$1.2M** in December. Then dropping significantly to **$700k** in 2021 until picking up again in September. The middle of the year seems to be stabilizing until the end of the year holidays, where except for 2022, all other years have peaked during this season.
-  The spike was led by the MacBook Air and 27in Gaming Monitor, which together accounted for the majority of the revenue jump from 2019. This suggest the reasoning to be because of the **Covid-19** period, where demand for home office and entertainment electronics surged industry-wide, though further research would be needed to confirm the cause.
+  The spike was led by the MacBook Air and 27in Gaming Monitor, which together accounted for the majority of the revenue jump from 2019. This aligns with the **Covid-19** period, where the demand for home office and entertainment electronics surged industry-wide, though further research would be needed to confirm the cause.
   
 
 
@@ -86,7 +86,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
   </picture>
   
   The **_27in 4k Gaming Monitor_** had the highest revenue peak in 2020 at **$366k**, generating a total of **$9.8M** across all years. While products like the **_MacBook Air Laptop_** and **_ThinkPad Laptop_** produced a total average order value of **$1,588** and **$1,100**, respectively, this indicates that both volume-driven and high-value products are relied on for the company.
-  Elist's product mix relies on two distinct revenue models high-volume, lower-priced products like the AirPods and Gaming Monitor, and the low-volume, high-ticket items like the MacBook Air and ThinkPad. The MacBook Air drove a significant portion of the 2020 revenue spike at **$2.9M** but declined sharply in subsequent years, while the Gaming Montior proved more resilient, holding steady into 2021. This suggests Elist's revenue is particularly sensitive to demand shift in high-AOV products.
+  Elist's product mix relies on two distinct revenue models: high-volume, lower-priced products like the AirPods and Gaming Monitor, and low-volume, high-value items like the MacBook Air and ThinkPad. The MacBook Air drove a significant portion of the 2020 revenue spike at **$2.9M** but declined sharply in subsequent years, while the Gaming Montior proved more resilient, holding steady into 2021. This suggests Elist's revenue is particularly sensitive to demand shift in high-AOV products.
   
   ### MacBook Air Maintains the Highest Refund Risk Among Apple Products
   <picture>
