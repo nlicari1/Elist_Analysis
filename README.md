@@ -86,14 +86,14 @@ Overall, while Elist maintains strong revenue drivers across products and region
   </picture>
   
   The **_27in 4k Gaming Monitor_** had the highest revenue peak in 2020 at **$366k**, generating a total of **$9.8M** across all years. While products like the **_MacBook Air Laptop_** and **_ThinkPad Laptop_** produced a total average order value of **$1,588** and **$1,100**, respectively, this indicates that both volume-driven and high-value products are relied on for the company.
-  Elist's product mix relies on two distinct revenue models: high-volume, lower-priced products like the AirPods and Gaming Monitor, and low-volume, high-value items like the MacBook Air and ThinkPad. The MacBook Air drove a significant portion of the 2020 revenue spike at **$2.9M** but declined sharply in subsequent years, while the Gaming Monitor proved more resilient, holding steady into 2021. This suggests Elist's revenue is particularly sensitive to demand shift in high-AOV products.
+  Elist's product mix relies on two distinct revenue models: high-volume, lower-priced products like the AirPods and Gaming Monitor, and low-volume, high-value items like the MacBook Air and ThinkPad. The MacBook Air drove a significant portion of the 2020 revenue spike at **$2.9M** but declined sharply in subsequent years, while the Gaming Monitor proved more resilient, holding steady into 2021. This suggests Elist's revenue is particularly sensitive to demand shifts in high-AOV products.
   
   ### MacBook Air Maintains the Highest Refund Risk Among Apple Products
   <picture>
     <img src="Insights/Apple Products Refund Rate.png" max-width:100% height="550" alt="Alt Text">
   </picture>
   
- While the **_MacBook Air Laptop_** delivers the highest AOV, it has the highest refund rate across all Apple products at **18%**. Laptops tend to produce the highest refund rates across all products, with the **_ThinkPad Laptop_** having **17%** between 2019-2020. In 2021, all products improved their refund rate while the laptops continued to have the highest refund rates. The MacBook Air dropped from around **18%** in 2019 to **6%** in 2021, suggesting operational or product changes may have had a positive effect. Refund rates are consistent across all regions, indicating the issue is product-specific rather than tied to a particular market. The MacBook Air refunds average around **755** days, which may point to the unmet  long-term expectations rather than an imemediate product issue. The 0% refund rate across all products in 2022 appears to be a data anomaly and should be investigated further before drawing conclusions.
+ While the **_MacBook Air Laptop_** delivers the highest AOV, it has the highest refund rate across all Apple products at **18%**. Laptops tend to produce the highest refund rates across all products, with the **_ThinkPad Laptop_** having **17%** between 2019-2020. In 2021, all products improved their refund rate while the laptops continued to have the highest refund rates. The MacBook Air dropped from around **18%** in 2019 to **6%** in 2021, suggesting operational or product changes may have had a positive effect. Refund rates are consistent across all regions, indicating the issue is product-specific rather than tied to a particular market. The MacBook Air refunds average around **755** days, which may point to unmet  long-term expectations rather than an immediate product issue. The 0% refund rate across all products in 2022 appears to be a data anomaly and should be investigated further before drawing conclusions.
  
  
   
@@ -106,16 +106,16 @@ Overall, while Elist maintains strong revenue drivers across products and region
   </picture>
 
   North America shows to be Elist's strongest market, generating **$14.5M** in total sales, peaking in 2020 at **$5.3M**. While EMEA produced **$8.2M**, Elist's main investment strategy should be in North America.
-  The revenue decline from 2021 to 2022 was consistent across all regions, suggesting a company-wide demand shift rather than a region specific issue. EMEA stands out as the strongest secondary market, making it the most developed growth opportunity outside North America. LATAM showed the biggest decline in AOV, dropping from $295 in 2020 to $168 in 2022, which may indicate growing price sensitivity in that market.
+  The revenue decline from 2021 to 2022 was consistent across all regions, suggesting a company-wide demand shift rather than a region-specific issue. EMEA stands out as the strongest secondary market, making it the most developed growth opportunity outside North America. LATAM showed the biggest decline in AOV, dropping from $295 in 2020 to $168 in 2022, which may indicate growing price sensitivity in that market.
   
   
 <h1 align= "center" >Recommendations</h1>
 
 ## Revenue Performance
   * The company should review the drivers behind 2020's peak performance and compare them against the 2022 decline to identify opportunities for revenue recovery and stronger year-round customer retention.
-  * Given the consistent **Q4** revenue peaks across 2019-2022, Elist should invest in holiday promotions earlier in the season to reproduce the seasonal demand that weakend significantly in 2022.
+  * Given the consistent **Q4** revenue peaks across 2019-2022, Elist should invest in holiday promotions earlier in the season to recapture the seasonal demand that weakened significantly in 2022.
 ## Customer Behavior
-  * Elist should strengthen loyalty conversion strategies by encouraging first-time customers to join the program through incentives earlier in their purchasing history, given that the loyalty members have shown more stable **AOV** and stronger retention as the program develops.
+  * Elist should strengthen loyalty conversion strategies by encouraging first-time customers to join the program through incentives earlier in their purchasing history, given that loyalty members have shown more stable **AOV** and stronger retention as the program develops.
 ## Product Health
   * Elist should continue supporting high-volume products like gaming monitors while optimizing premium product strategies for laptops through targeted marketing and pricing decisions.
   * Leadership should investigate why MacBook Air refunds average **755 days**, as this likely points to unmet long-term customer expectations rather than an immediate product issue. Additionally, the **0%** refund rate across all products in 2022 should be validated before drawing any conclusions, since there seems to be a data anomaly.
