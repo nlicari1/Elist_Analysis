@@ -55,7 +55,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
   ### 2020 Was Elist's Strongest Sales Year Across All Monthly Trends
   <picture>
     <!--<img src="Insights/Monthly Sales Trend.png" max-width:100% height="500" alt="Alt Text"> -->
-    <img src="Insights/Monthly Sales Trend Colored.png" max-width:100% height="500" alt="Alt Text">
+    <img src="Insights/Monthly Sales Trend.png" max-width:100% height="500" alt="Alt Text">
   </picture>
   
   2020 was the highest performing year peaking at **$1.2M** in December. Then dropping significantly to **$700k** in 2021 until picking up again in September. The middle of the year seems to be stabilizing until the end of the year holidays, where except for 2022, all other years have peaked during this season.
