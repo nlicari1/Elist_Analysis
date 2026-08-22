@@ -81,7 +81,7 @@ Overall, while Elist maintains strong revenue drivers across products and region
   
   #### Macbook Air and ThinkPad Generate the Highest Average Order Value
   <picture>
-    <img src="Insights/AOV Apple Products.png" max-width:100% height="600" alt="Alt Text"> 
+    <img src="Insights/Apple Products AOV.png" max-width:100% height="600" alt="Alt Text"> 
     <!-- <img src="Insights/AOV Across Products.png" max-width:100% height="350" alt="Alt Text"> --> 
   </picture>
   
